@@ -13,7 +13,7 @@ Looking at the code gives you some insight in:
 
 * Integration with libspotify
 * Communication through JNI
-* Bridging raw PCM data to openSL
+* Bridging raw PCM data to OpenSL
 
 ## Known issues ##
 
